@@ -1,0 +1,17 @@
+{
+	"ulid": "01ETG7C5X13AVB7NM62GAM9074",
+	"minTime": 1608674660796,
+	"maxTime": 1608681600000,
+	"stats": {
+		"numSamples": 2242,
+		"numSeries": 388,
+		"numChunks": 388
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01ETG7C5X13AVB7NM62GAM9074"
+		]
+	},
+	"version": 1
+}

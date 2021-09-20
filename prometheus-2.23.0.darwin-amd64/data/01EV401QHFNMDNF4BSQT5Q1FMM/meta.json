@@ -1,0 +1,17 @@
+{
+	"ulid": "01EV401QHFNMDNF4BSQT5Q1FMM",
+	"minTime": 1609617600000,
+	"maxTime": 1609624800000,
+	"stats": {
+		"numSamples": 45,
+		"numSeries": 5,
+		"numChunks": 5
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EV401QHFNMDNF4BSQT5Q1FMM"
+		]
+	},
+	"version": 1
+}

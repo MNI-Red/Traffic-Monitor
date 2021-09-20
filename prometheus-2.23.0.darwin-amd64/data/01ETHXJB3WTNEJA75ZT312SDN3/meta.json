@@ -1,0 +1,17 @@
+{
+	"ulid": "01ETHXJB3WTNEJA75ZT312SDN3",
+	"minTime": 1609005600000,
+	"maxTime": 1609012800000,
+	"stats": {
+		"numSamples": 79060,
+		"numSeries": 950,
+		"numChunks": 950
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01ETHXJB3WTNEJA75ZT312SDN3"
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,8 @@
+global:
+	scrape_interval:	15s
+	external_labels:
+		monitor: 'networ-traffic-metrics'
+scrape_config:
+	- job_name: 'network-traffic-metrics'
+	  static_configs:
+		- targets: ['192.168.17.20:8000']

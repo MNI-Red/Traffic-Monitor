@@ -1,0 +1,17 @@
+{
+	"ulid": "01EV4JP266FMVKGDPNFPSNX30F",
+	"minTime": 1609668000000,
+	"maxTime": 1609675200000,
+	"stats": {
+		"numSamples": 10,
+		"numSeries": 5,
+		"numChunks": 5
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EV4JP266FMVKGDPNFPSNX30F"
+		]
+	},
+	"version": 1
+}
